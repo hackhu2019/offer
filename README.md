@@ -1,5 +1,3 @@
-# offer
-
 把《[剑指 offer](https://book.douban.com/subject/25910559/)》的题目用 Java 语言（书中是 C++）实现了一遍，希望能给大家一些参考。
 
 [GitHub 地址](https://github.com/hackhu2019/offer)：https://github.com/hackhu2019/offer
@@ -58,3 +56,4 @@ Java 版本：1.8  （不同版本对我项目的使用影响不大，1.5 以上
 这样分解问题并一步步找到规律可以帮我们更好的解题。
 
 我的代码中也有一些自己的思路，如果出现错误你可以直接提交你的代码到我的仓库，或直接 [联系我](https://www.zhihu.com/people/hu-hao-77-99/activities) 都可以。祝大家和我都能收获自己心仪的 offer。
+
