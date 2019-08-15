@@ -2,6 +2,8 @@
 
 把《[剑指 offer](https://book.douban.com/subject/25910559/)》的题目用 Java 语言（书中是 C++）实现了一遍，希望能给大家一些参考。
 
+[GitHub 地址](https://github.com/hackhu2019/offer)：https://github.com/hackhu2019/offer
+
 注：我的看的是 2014 年出版的，题目序号和 2017 版有差异，2017 中的贪婪算法部分在 2014 版中没有。
 
 我的代码和其他人的有什么不同：
